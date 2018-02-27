@@ -1,0 +1,21 @@
+{
+    "name": "tastaturberuf/contao-rocksolidthemes-tao",
+    "description": "Install all dependencies for the Tao theme from rocksolidthemes.com",
+    "minimum-stability": "stable",
+    "license": "LGPL3",
+    "authors": [
+        {
+            "name": "Daniel Jahnsmüller",
+            "email": "code@tastaturberuf.de"
+        }
+    ],
+    "require": {
+        "madeyourday/contao-rocksolid-columns": "^2.0",
+        "madeyourday/contao-rocksolid-custom-elements": "^2.2",
+        "madeyourday/contao-rocksolid-frontend-helper": "^2.0",
+        "madeyourday/contao-rocksolid-icon-picker": "^2.0",
+        "madeyourday/contao-rocksolid-mega-menu": "^2.0",
+        "madeyourday/contao-rocksolid-slider": "^2.0",
+        "madeyourday/contao-rocksolid-theme-assistant": "^2.0"
+    }
+}
